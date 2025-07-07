@@ -28,7 +28,3 @@ You’ll have **10 seconds** to answer each question. If you answer correctly an
 - The game ends either when you reach 5 correct answers or after all 10 questions are asked.
 - If you get 5 right before running out of questions, you win 🎉. Otherwise, you lose 😢.
 
----
-
-## 🧠 Example Output
-
